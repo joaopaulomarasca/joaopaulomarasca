@@ -1,50 +1,55 @@
-<br clear="both">
 
-<h6 align="left">Opa tudo bem? <br>Me chamo João Paulo<br>Tenho 16 anos <br>sou de Chapecó SC Brasil</h6>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&size=30&center=true&vCenter=true&width=600&lines=Olá+👋+Seja+bem+vindo+ao+meu+GitHub!" />
+</p>
 
-###
+<br>
 
-<br clear="both">
+<h3 align="left">👨‍💻 Sobre mim</h3>
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt0d2djZTI1YTlxeWF0YXFsbjVlejJ3OXI5eHJ1d3hmdWd4ZHFsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EpnNFYpmzuPZvu4VBp/giphy.gif"  />
+- 🎂 16 anos  
+- 📍 Chapecó - SC - Brasil  
+- 💻 Estudando programação  
+- 🚀 Focado em aprender cada vez mais  
 
-###
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt0d2djZTI1YTlxeWF0YXFsbjVlejJ3OXI5eHJ1d3hmdWd4ZHFsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EpnNFYpmzuPZvu4VBp/giphy.gif"/>
+
+---
+
+# 🚀 Tecnologias
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+
+<img src="https://skillicons.dev/icons?i=c,cs,git,linux,vscode,visualstudio"/>
+
 </div>
 
-###
+---
+
+<div align="center"> <img src="https://streak-stats.demolab.com?user=joaopaulomarasca&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> </div>
+
+---
+
+# 🌎 Contato
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=joaopaulomarasca&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/og.jaop/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35" alt="instagram logo"/>
-  </a>
-<a href="mailto:joaopaulomt0987@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="gmail logo"/>
+<a href="https://www.instagram.com/og.jaop/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-  <a href="https://www.linkedin.com/in/joao-paulo-marasca-tessaro-478965373/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
+<a href="mailto:joaopaulomt0987@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/joao-paulo-marasca-tessaro-478965373/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
-###
 
-<br clear="both">
+---
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=joaopaulomarasca&color=blue"/>
+</p>
