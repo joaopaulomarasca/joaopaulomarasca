@@ -12,9 +12,6 @@
 - 💻 Estudando programação  
 - 🚀 Focado em aprender cada vez mais  
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGt0d2djZTI1YTlxeWF0YXFsbjVlejJ3OXI5eHJ1d3hmdWd4ZHFsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EpnNFYpmzuPZvu4VBp/giphy.gif"/>
-
----
 
 # 🚀 Tecnologias
 
