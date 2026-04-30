@@ -17,7 +17,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cs,git,linux,vscode,visualstudio"/>
+<img src="https://skillicons.dev/icons?i=c,cs,git,linux,vscode,visualstudioL,HTML,CSS"/>
 
 </div>
 
