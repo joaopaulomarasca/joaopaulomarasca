@@ -4,7 +4,7 @@
 
 <h3 align="center"> Sobre mim</h3>
 
-# 👋 Olá, eu sou João Paulo
+## Olá, eu sou João Paulo
 
 💻 Desenvolvedor em formação focado em desenvolvimento web  
 🚀 Buscando minha primeira oportunidade como programador  
