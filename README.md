@@ -7,7 +7,7 @@
 ## Olá, eu sou João Paulo
 
  Desenvolvedor em formação focado em desenvolvimento web e logica de programação
- Buscando minha primeira oportunidade como programador  
+ 
 
 ##  Sobre mim
 -  Chapecó - SC  
